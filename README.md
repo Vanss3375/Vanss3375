@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Samsung as IoT developer
 - 📫 How to reach me 
 - 😄 Pronouns: Nothing
-- ⚡ Fun fact: Iam Smart
+- ⚡ Fun fact: I'm human 
 
 <!---
 Vanss3375/Vanss3375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
